@@ -1,0 +1,292 @@
+Question ID, User ID, Question Text, Question Type, Date Posted
+1,1,"What is your age?",Numerical,2014-01-24 15:00:00
+167,534,"For how many years have you been continuously working?",Numerical,2014-01-24 15:33:55
+168,536,"Do you have a 401k?",Choices,2014-01-24 15:36:32
+169,537,"Do you have an IRA?",Choices,2014-01-24 15:51:18
+170,546,"In what country do you currently reside?",Choices,2014-01-24 16:25:31
+171,547,"If you are currently employed, are you paid by the hour?",Choices,2014-01-24 16:26:11
+172,576,"Are you currently on a work visa?",Choices,2014-01-24 17:05:09
+173,578,"Are you participating in a pension plan? ",Choices,2014-01-24 17:06:36
+174,578,"Did you receive a bonus at work last year?",Choices,2014-01-24 17:07:04
+175,578,"Have you ever had a major illness?",Choices,2014-01-24 17:07:30
+176,588,"Do you work in the public sector (paid by government)?",Choices,2014-01-24 17:25:17
+177,588,"Do you financially support children?",Choices,2014-01-24 17:25:45
+178,588,"Are you homosexual?",Choices,2014-01-24 17:25:54
+179,588,"Do you rent your home?",Choices,2014-01-24 17:26:28
+180,583,"How many years have you been saving for your retirement?",Numerical,2014-01-24 17:26:29
+181,588,"Do you walk to work?",Choices,2014-01-24 17:26:45
+182,588,"Are you a member of a credit union?",Choices,2014-01-24 17:28:19
+183,588,"How much did you pay for your last haircut?",Numerical,2014-01-24 17:29:40
+184,588,"How large is your television (in inches)?",Numerical,2014-01-24 17:29:59
+185,588,"Are you a cable television subscriber?",Choices,2014-01-24 17:30:12
+186,583,"What is your annual income?",Numerical,2014-01-24 17:37:18
+187,583,"Do you have student loans?",Choices,2014-01-24 17:37:47
+188,583,"Are you currently paying towards a mortgage?",Choices,2014-01-24 17:38:35
+189,596,"Do you have roommates?",Choices,2014-01-24 17:59:35
+190,609,"Are you married?",Choices,2014-01-24 18:48:20
+191,617,"Are you careful with money?",Choices,2014-01-24 19:09:04
+192,617,"Do you have a joint account with your spouse?",Choices,2014-01-24 19:09:50
+193,617,"Does your mother or father handle most or some of your finances?",Choices,2014-01-24 19:10:09
+194,617,"Do you own a car?",Choices,2014-01-24 19:10:18
+195,617,"Do you consider yourself frugal?",Choices,2014-01-24 19:12:52
+196,617,"Do you invest your money in the stock market?",Choices,2014-01-24 19:13:15
+197,617,"Do you invest your money in bonds?",Choices,2014-01-24 19:13:28
+198,617,"Does having money in your bank account make you feel secure?",Choices,2014-01-24 19:13:46
+199,633,"Did you pay cash for your last vehicle?",Choices,2014-01-24 20:04:43
+200,650,"How many times a week do you eat out?",Numerical,2014-01-24 20:45:06
+201,656,"How much money do you have in your emergency fund?",Numerical,2014-01-24 20:52:52
+202,675,"Are you currently employed?",Choices,2014-01-24 21:15:09
+203,679,"How many credit cards do you have?",Numerical,2014-01-24 21:22:53
+204,696,"How many vacations do you take per year?",Numerical,2014-01-24 21:52:25
+205,699,"Do you subscribe to a newspaper (paper or online)?",Choices,2014-01-24 21:59:04
+207,699,"Are you in a long-term relationship?",Choices,2014-01-24 22:00:20
+208,699,"What is your gender?",Choices,2014-01-24 22:00:32
+209,699,"What is your net worth?",Numerical,2014-01-24 22:00:55
+210,691,"What is your weight (in pounds)?",Numerical,2014-01-24 22:12:44
+211,706,"On average, how many times a week do you use a taxi?",Numerical,2014-01-24 22:13:57
+212,707,"On average, how much money do you spend on gas per week?",Numerical,2014-01-24 22:19:21
+214,786,"On average, how much money do you spend on groceries per month?",Numerical,2014-01-25 01:33:05
+215,791,"Do you live in an apartment?",Choices,2014-01-25 01:34:52
+216,811,"Do you have an American Express Platinum Card?",Choices,2014-01-25 02:14:52
+217,811,"How many children do you have?",Numerical,2014-01-25 02:16:17
+218,811,"Do you have a graduate degree?",Choices,2014-01-25 02:17:03
+219,820,"At what age did you start saving for retirement?",Numerical,2014-01-25 02:49:37
+220,822,"Do you receive benefits from your employer?",Choices,2014-01-25 03:09:30
+221,831,"Are you concerned about inflation?",Choices,2014-01-25 03:52:43
+222,835,"On average, how many times a week, do you take your own lunch to work?",Numerical,2014-01-25 05:23:32
+223,852,"Do you feel retirement is worth saving for?",Choices,2014-01-25 09:26:33
+224,854,"How much money do you currently have invested in bonds?",Numerical,2014-01-25 10:33:22
+225,869,"Do you invest in precious metals?",Choices,2014-01-25 12:00:54
+226,869,"On average, how many times a week do you drink coffee?",Numerical,2014-01-25 12:01:49
+227,898,"Do you consider your education to be complete?",Choices,2014-01-25 13:03:56
+228,938,"Do you track your finances (e.g. balance checkbook, Quicken, Mint.com)?",Choices,2014-01-25 14:03:44
+229,938,"Are you employed full time?",Choices,2014-01-25 14:04:08
+230,940,"Did you lie about your personal savings in the first question?",Choices,2014-01-25 14:04:38
+231,938,"Do you give financial assistance to family or friends?",Choices,2014-01-25 14:05:23
+232,938,"Was your last purchased vehicle pre-owned?",Choices,2014-01-25 14:06:23
+233,938,"How many prescription drugs do you regularly take?",Numerical,2014-01-25 14:06:58
+234,938,"Do both of your parents have college degrees?",Choices,2014-01-25 14:07:21
+235,938,"Does your town have a subway system?",Choices,2014-01-25 14:07:54
+236,938,"Would you describe the last five years as hectic or smooth?",Choices,2014-01-25 14:08:39
+238,951,"Do you always go to a higher-end grocery store like Whole Foods instead of regular grocery stores?",Choices,2014-01-25 14:21:14
+239,1,"Are you a student?",Choices,2014-01-25 14:23:06
+240,974,"How tall are you (in inches)?",Numerical,2014-01-25 14:43:05
+241,925,"Are you willing to trade liquidity for extra returns?",Choices,2014-01-25 14:47:33
+242,951,"Are you likely to make impulse purchases?",Choices,2014-01-25 14:47:49
+243,951,"How many minutes away from work do you live?",Numerical,2014-01-25 14:50:17
+247,1110,"Are you a student receiving assistance via scholarship?",Choices,2014-01-25 16:21:18
+248,1144,"Do you own a pet?",Choices,2014-01-25 16:54:05
+250,1198,"On average, how much money do you spend each month paying off debt?",Numerical,2014-01-25 17:35:30
+251,1214,"Do you own any real estate?",Choices,2014-01-25 17:56:08
+252,1236,"On average, how many cigarettes do you smoke per week?",Numerical,2014-01-25 18:05:55
+253,1346,"Are you nervous about your financial future?",Choices,2014-01-25 20:54:15
+254,1348,"Do you have a smart phone?",Choices,2014-01-25 21:09:38
+255,1360,"Do you purchase video games as they are released?",Choices,2014-01-25 21:29:19
+262,1443,"How many years of college have you attended?",Numerical,2014-01-26 03:01:11
+263,1443,"Are you a military veteran?",Choices,2014-01-26 03:01:26
+264,1443,"If you are NOT a student, how many hours per week do you spend studying and practicing new skills?",Numerical,2014-01-26 03:02:12
+265,1443,"Have you ever been denied a job due to your credit?",Choices,2014-01-26 03:02:38
+266,1443,"Do you own a mobile home?",Choices,2014-01-26 03:02:54
+268,1443,"How many vehicles do you own?",Numerical,2014-01-26 03:05:02
+269,1443,"Do you usually have a high-performance computer?",Choices,2014-01-26 03:05:27
+270,1443,"Are you the beneficiary of a private trust fund?",Choices,2014-01-26 03:06:10
+271,1443,"Do you sell drugs?",Choices,2014-01-26 03:06:41
+272,1443,"Do you own digital assets (crytocurrency)?",Choices,2014-01-26 03:07:08
+273,1443,"Are you a web merchant or producer of goods sold online?",Choices,2014-01-26 03:07:32
+274,1443,"Do you own a business?",Choices,2014-01-26 03:07:54
+275,1443,"Are you the majority shareholder of a LLC?",Choices,2014-01-26 03:08:16
+276,1443,"Do you have a tradesman`s license? (Electrician, plumber, general contractor, welder, etc)",Choices,2014-01-26 03:08:48
+277,1443,"Do you own any maritime assets (boats, platforms, rigs, etc)?",Choices,2014-01-26 03:09:38
+279,1461,"Do you take public transit on a regular basis?",Choices,2014-01-26 05:28:51
+280,1461,"Do you use preauthorized transfers for charitable donations?",Choices,2014-01-26 05:29:44
+281,1461,"Have you ever received a scholarship that covered more than the cost of a year`s tuition?",Choices,2014-01-26 05:30:55
+282,1461,"Are you a visible minority where you live?",Choices,2014-01-26 05:32:09
+284,1461,"Do you use online banking?",Choices,2014-01-26 05:32:58
+285,1461,"How many books did you read in the past 12 months?",Numerical,2014-01-26 05:33:38
+286,1461,"How much did you pay last year in income tax?",Numerical,2014-01-26 05:34:34
+287,1461,"How many airline flights did you take in the past 12 months?",Numerical,2014-01-26 05:35:48
+288,1461,"Have you ever owned a car?",Choices,2014-01-26 05:36:10
+289,1461,"Do you own a bicycle?",Choices,2014-01-26 05:36:48
+290,1461,"What is the longest number of consecutive days you have spent traveling, for purposes other than employment, as an adult?",Numerical,2014-01-26 05:38:36
+291,1461,"On a summer weekend, would you rather go camping or stay in a resort/hotel?",Choices,2014-01-26 05:39:58
+292,1461,"Do you earn more or less than the average for someone in your employment situation?",Choices,2014-01-26 05:44:49
+293,1461,"Do you utilize a tax-free savings account?",Choices,2014-01-26 05:53:04
+294,1464,"Is a checking account your primary (majority) form of savings?",Choices,2014-01-26 05:56:06
+295,1461,"How many magazines (digital or paper) do you subscribe to?",Numerical,2014-01-26 05:56:44
+296,1461,"Do you believe in God?",Choices,2014-01-26 05:58:07
+297,1461,"What is the population of your city?",Numerical,2014-01-26 06:00:20
+298,1461,"Do you wear a wristwatch?",Choices,2014-01-26 06:01:02
+299,1461,"Did you vote in the last national election?",Choices,2014-01-26 06:02:13
+300,1461,"How many languages can you speak?",Numerical,2014-01-26 06:02:36
+301,1461,"How many hamburgers do you eat each week?",Numerical,2014-01-26 06:04:13
+302,1461,"How many countries have you been to?",Numerical,2014-01-26 06:05:27
+303,1461,"Agree or disagree: As a child, I had adults in my life who were good financial role models.",Choices,2014-01-26 06:08:55
+304,1461,"Do you enjoy cooking?",Choices,2014-01-26 06:12:30
+305,1461,"How much do you pay per month for your housing? ",Numerical,2014-01-26 06:14:25
+306,1461,"Do you regularly use coupons when shopping?",Choices,2014-01-26 06:15:31
+307,1461,"What is your monthly budget?",Numerical,2014-01-26 06:16:33
+308,1467,"Are you vegetarian or vegan?",Choices,2014-01-26 06:18:48
+309,1467,"Are you disabled?",Choices,2014-01-26 06:31:33
+310,1467,"Do you receive money from the state for being sick or disabled?",Choices,2014-01-26 06:41:49
+311,1467,"Do you prefer to write with a pen or a pencil?",Choices,2014-01-26 06:42:14
+314,1506,"Have you recently inherited any money.",Choices,2014-01-26 12:57:51
+316,1461,"How much debt do you have in the form of student loans?",Numerical,2014-01-26 14:42:25
+317,1461,"How many alcoholic drinks do you consume per week?",Numerical,2014-01-26 14:43:40
+320,1461,"Would you choose to pay another person to mow the grass in your lawn?",Choices,2014-01-26 14:48:27
+321,1461,"How many siblings do you have?",Numerical,2014-01-26 14:48:54
+322,1461,"Do you regularly shop at a dollar store?",Choices,2014-01-26 14:49:52
+323,1461,"Do you regularly shop at a big box store, such as Walmart, Costco, or Sams Club?",Choices,2014-01-26 14:50:49
+324,1461,"How many friends do you have on Facebook?",Numerical,2014-01-26 14:52:21
+325,1461,"How many times per week do you exercise?",Numerical,2014-01-26 15:23:12
+326,1555,"Are you a doctor?",Choices,2014-01-26 18:23:24
+327,1381,"Do you suffer from a history of depression?",Choices,2014-01-26 20:32:22
+328,1381,"Were you bullied at school?",Choices,2014-01-26 20:33:20
+329,1381,"Are you employed in, or studying in, a STEM field?",Choices,2014-01-26 20:35:09
+330,1381,"Do you keep a diary?",Choices,2014-01-26 20:39:39
+331,1,"How many pairs of shoes do you own?",Numerical,2014-01-26 21:49:33
+332,1,"How many months has it been since your last appointment with a dentist?",Numerical,2014-01-26 21:50:00
+334,1602,"How much money do you spend on food per week?",Numerical,2014-01-27 02:20:29
+335,1612,"Does somebody else support you financially?",Choices,2014-01-27 08:37:29
+337,1639,"Do you keep an emergency fund in a savings account?",Choices,2014-01-27 15:17:27
+338,1631,"Do you bike to work?",Choices,2014-01-27 15:35:11
+339,1643,"Do you subscribe to online television providers? (Netflix, Hulu, etc.)",Choices,2014-01-27 16:11:52
+340,1659,"How much do you make monthly from sources outside of your primary employment?",Numerical,2014-01-27 20:12:16
+341,1726,"Would you rather go out for brunch or make it at home?",Choices,2014-01-28 11:35:54
+343,2445,"What is the current balance of your student loans?",Numerical,2014-01-28 13:30:09
+344,1747,"Did your parents contribute to your college education?",Choices,2014-01-28 13:50:04
+346,2051,"Do you completely pay off your credit card every month?",Choices,2014-01-28 13:57:03
+348,2440,"Do you make your own clothes?",Choices,2014-01-28 14:03:33
+350,2381,"Did your parents/guardians discuss money with you as a child?",Choices,2014-01-28 14:11:52
+351,2378,"Are your children involved in sports?",Choices,2014-01-28 14:12:24
+352,2378,"Are your children involved in academic extracurricular activities?",Choices,2014-01-28 14:14:01
+354,2378,"Are your children special-needs?",Choices,2014-01-28 14:14:30
+356,2378,"Are your children involved in clubs (i.e. scouts, drama, art, journalism)?",Choices,2014-01-28 14:17:28
+357,2502,"Do you shop for groceries at a food coop? ",Choices,2014-01-28 14:17:44
+358,2263,"Have you received money from a legal settlement?",Choices,2014-01-28 14:21:21
+360,2140,"Do you work for a public/state university?",Choices,2014-01-28 14:28:45
+362,2378,"Are your children in a before- or after-school child-care program?",Choices,2014-01-28 14:30:57
+363,2378,"Do you have college savings funds for your children?",Choices,2014-01-28 14:33:25
+365,2378,"Do you employ a nanny or a maid service?",Choices,2014-01-28 14:34:39
+367,2378,"Do you use a service for housecleaning?",Choices,2014-01-28 14:35:42
+368,2378,"Do you use a service to walk your dog (or other pet)?",Choices,2014-01-28 14:36:04
+369,1861,"Do you pay most of your expenses with a credit card?
+",Choices,2014-01-28 14:39:03
+370,2597,"How much money per month do you spend at restaurants?",Numerical,2014-01-28 14:42:43
+371,1985,"Do you work for a non-profit company? ",Choices,2014-01-28 14:43:59
+373,2584,"Do you put money into savings after every paycheck?",Choices,2014-01-28 14:48:21
+374,2578,"How many times per week do you check your bank account balance? ",Numerical,2014-01-28 14:52:04
+375,1933,"Are you currently a graduate student?",Choices,2014-01-28 14:53:38
+377,2080,"Have you completed a major move within the past year?",Choices,2014-01-28 14:55:48
+378,2233,"Are you fast at typing?",Choices,2014-01-28 14:55:54
+379,2299,"On average, how many times a week do you post to social media? ",Numerical,2014-01-28 14:57:50
+380,1765,"Do you hold an advanced degree in science, technology, engineering, or math?",Choices,2014-01-28 15:02:04
+381,2660,"Do you have a second job?",Choices,2014-01-28 15:06:38
+382,2578,"When you give gifts, do you usually make them instead of buying them?",Choices,2014-01-28 15:06:41
+384,2578,"Do you know how to build a fire? ",Choices,2014-01-28 15:10:58
+385,2677,"Do you know any programming languages?",Choices,2014-01-28 15:16:20
+386,2486,"Has there been a death or medical emergency in your family within the last 2 years?",Choices,2014-01-28 15:21:59
+387,2659,"Do you enjoy shopping?",Choices,2014-01-28 15:30:41
+388,2715,"Have you ever eaten caviar?",Choices,2014-01-28 15:31:39
+389,2727,"What is your current credit card debt? ",Numerical,2014-01-28 15:36:38
+390,1792,"Do you have credit card debt that does not get paid off each month?",Choices,2014-01-28 15:42:56
+391,2797,"Do you own or rent?",Choices,2014-01-28 15:44:56
+392,2751,"How many times per year do you purchase new clothing items?",Numerical,2014-01-28 15:45:39
+393,2547,"How many cats do you have?",Numerical,2014-01-28 15:47:20
+394,2796,"Are you bisexual?",Choices,2014-01-28 16:04:04
+395,2765,"How many laptop or desktop computers do you own?",Numerical,2014-01-28 16:06:55
+397,2796,"How many times have you changed jobs in the past year?",Numerical,2014-01-28 16:12:44
+398,2792,"How many hours a week do you volunteer your time to non-profit work?",Numerical,2014-01-28 16:13:26
+399,2794,"Do you work in the Media (editorial/publishing/journalism)?",Choices,2014-01-28 16:23:01
+400,2057,"How many months of living expenses do you have saved?",Numerical,2014-01-28 16:24:58
+401,2794,"How much money do you spend on clothing per year?",Numerical,2014-01-28 16:25:12
+402,2826,"How much mortgage debt do you have?",Numerical,2014-01-28 16:31:51
+403,2839,"What is the most you have paid for dinner for yourself (including drinks)?",Numerical,2014-01-28 16:46:14
+405,2887,"What is the age of your savings account?",Numerical,2014-01-28 17:01:14
+406,2885,"Did you recently pay off a large debt?",Choices,2014-01-28 17:03:54
+408,2904,"Are you in a union?",Choices,2014-01-28 17:22:07
+409,2900,"Have you ever been let go from a job?",Choices,2014-01-28 17:26:57
+410,1,"If you are married, at what age did you marry?",Numerical,2014-01-28 17:29:20
+411,1,"Have you ever been divorced?",Choices,2014-01-28 17:29:38
+412,1,"Do you try to eat organic?",Choices,2014-01-28 17:29:54
+413,1,"Do you practice yoga?",Choices,2014-01-28 17:30:09
+414,1,"How many times a week do you eat kale?",Numerical,2014-01-28 17:30:33
+415,2926,"Does your partner pay for most of your living expenses?",Choices,2014-01-28 17:42:27
+416,2944,"Do you plan to pursue additional schooling in the future?",Choices,2014-01-28 17:46:52
+417,2983,"Do you enjoy reading science fiction?",Choices,2014-01-28 17:59:20
+419,2971,"What amount of savings do you think is necessary for someone in your situation?",Numerical,2014-01-28 18:20:54
+420,1815,"Do you need to buy different clothes for the season?",Choices,2014-01-28 18:32:49
+421,2992,"Do you have an arts degree?",Choices,2014-01-28 18:39:03
+422,2951,"How much money do you put into a retirement account each year?",Numerical,2014-01-28 19:01:17
+423,3019,"Have you or are you planning on pursuing a graduate degree?",Choices,2014-01-28 19:02:47
+424,3024,"What percentage of your expenses do your parents pay for? (Ex. type 50 for 50%)",Numerical,2014-01-28 19:10:11
+425,3033,"Do you have a dishwasher in your home? ",Choices,2014-01-28 19:21:42
+426,3033,"Do you own a tablet?",Choices,2014-01-28 19:21:50
+427,3033,"Do you floss daily? ",Choices,2014-01-28 19:21:58
+428,3033,"Do you use an electric toothbrush? ",Choices,2014-01-28 19:22:09
+429,3033,"Do you have ADHD?",Choices,2014-01-28 19:22:29
+430,3055,"How many DVD box sets do you own?",Numerical,2014-01-28 19:29:08
+432,3088,"How much money is left over from your paycheck at the end of each month? ",Numerical,2014-01-28 20:27:51
+433,3088,"Do you often spend more than you make?",Choices,2014-01-28 20:28:10
+434,3082,"Are you politically conservative (right-wing)?",Choices,2014-01-28 20:43:11
+435,3082,"Are/were you in a fraternity or sorority?",Choices,2014-01-28 20:43:39
+436,3082,"Do you set your thermostat above 70F (21C if not from US) in the winter?",Choices,2014-01-28 20:44:30
+437,3110,"Did you recently graduate from school?",Choices,2014-01-28 21:06:18
+438,3110,"If you recently graduated from school, how many months have you been working?",Numerical,2014-01-28 21:06:45
+439,3106,"How many savings accounts do you have?",Numerical,2014-01-28 21:08:58
+440,3131,"Do you consider yourself to be more frugal than most of your friends?",Choices,2014-01-28 21:25:46
+441,3138,"How many times per week do you go out with friends?",Numerical,2014-01-28 21:25:55
+442,3144,"At what age did you receive your Bachelor`s degree, if you have one?",Numerical,2014-01-28 21:39:49
+443,3159,"Do you plan on retiring early?",Choices,2014-01-28 22:09:52
+444,3163,"Do you listen to talk/news radio?",Choices,2014-01-28 22:09:56
+445,3168,"Do you monitor your credit?",Choices,2014-01-28 22:11:36
+446,3168,"Is your credit score above 700?",Choices,2014-01-28 22:11:54
+447,3170,"How many hours per week do you work?",Numerical,2014-01-28 22:21:14
+448,3207,"Do you buy your groceries in one weekly trip or as needed?",Choices,2014-01-28 22:34:33
+449,3236,"Do you recycle?",Choices,2014-01-28 23:49:35
+450,3220,"Have you ever gotten a payday loan, title loan, or tax refund anticipation loan?",Choices,2014-01-29 00:19:28
+452,3220,"Are you African-American or black?",Choices,2014-01-29 00:20:35
+453,3220,"Are you Hispanic or Latin?",Choices,2014-01-29 00:20:49
+454,3220,"Are you Native American?",Choices,2014-01-29 00:21:27
+455,3220,"Are you Caucasian or white?",Choices,2014-01-29 00:21:37
+456,3224,"Do you have a criminal record
+(excluding traffic infringements)?",Choices,2014-01-29 00:42:19
+457,3224,"How many speeding fines have you received in the last year?",Numerical,2014-01-29 00:42:35
+458,3285,"How far away do you live from the town that you grew up in (in miles)?",Numerical,2014-01-29 02:10:33
+461,3322,"Do you strategically take advantage of credit card cash back/airline miles rewards points?",Choices,2014-01-29 09:04:05
+462,3336,"If you are a student and have a job, do you work on campus and/or have a work-study expectation?",Choices,2014-01-29 09:39:45
+464,3357,"Do you try to keep to a budget each month?",Choices,2014-01-29 11:06:14
+465,3378,"Do you own any bitcoin?",Choices,2014-01-29 12:06:59
+466,3028,"Do you pay for a premium music subscription service (Spotify, Pandora, etc.)?",Choices,2014-01-29 13:06:53
+467,3404,"Do you employ a wealth manager or financial adviser?",Choices,2014-01-29 13:11:10
+468,3421,"Do you own a television?",Choices,2014-01-29 13:57:02
+469,3465,"If you are married, do you pay more income tax than if you were not married and filing separately?",Choices,2014-01-29 15:56:21
+470,3289,"How much monthly financial support do you receive from others (i.e., parents, family, community)?",Numerical,2014-01-29 16:44:29
+471,3500,"Do you pay off debts in order of balance or interest rate?",Choices,2014-01-29 18:40:40
+472,3513,"How often do you have sex per week?",Numerical,2014-01-29 21:05:19
+473,3530,"Do you have a family doctor?",Choices,2014-01-29 22:07:27
+474,3536,"Are you an immigrant?",Choices,2014-01-29 22:55:06
+475,3536,"Are you Asian?",Choices,2014-01-29 22:55:25
+476,3539,"Did you buy a house in the past 12 months? ",Choices,2014-01-29 22:58:57
+477,3546,"Do you have a liberal arts degree?",Choices,2014-01-30 00:29:35
+478,3551,"Have you ever done sex work?",Choices,2014-01-30 00:55:28
+479,3552,"Do you have children under the age of 3?",Choices,2014-01-30 01:21:05
+480,3564,"How many miles do you travel to get to work?",Numerical,2014-01-30 03:18:52
+481,3076,"How many cans or glasses of soda do you drink per week?",Numerical,2014-01-30 04:39:33
+482,3585,"Does your employer provide a retirement savings match?",Choices,2014-01-30 14:16:49
+483,3592,"Do your parents/family help with student loan debt?",Choices,2014-01-30 16:34:36
+485,1061,"Have you read any books longer than 700 pages in their entirety?",Choices,2014-01-30 17:42:30
+486,3616,"Do you create and sell artwork (painting, sculpture, ceramics, etc.)?",Choices,2014-01-30 22:05:33
+487,3583,"If you have recently paid off a big debt, are you continuing to put this amount of money away in savings?",Choices,2014-01-31 18:24:25
+489,3672,"How much is your monthly mobile phone bill?",Numerical,2014-02-01 00:58:52
+490,3681,"How many years do you expect to live after you retire?",Numerical,2014-02-01 09:47:36
+491,3626,"Do you prefer to spend money or to save money?",Choices,2014-02-01 15:22:30
+492,3750,"On your current income, could you afford a higher standard of living than you currently have? ",Choices,2014-02-03 06:08:51
+493,3733,"Have you ever been on welfare?",Choices,2014-02-03 08:07:39
+494,3753,"Are you employed in a professional services firm (e.g. Management Consulting, Investment banking, Accountancy, Law)?",Choices,2014-02-03 09:43:34
+495,3767,"Do you like cheerios?",Choices,2014-02-03 17:18:31
+496,3767,"Do you prefer cats or dogs?",Choices,2014-02-03 17:18:50
+497,3767,"Are you gluten free?",Choices,2014-02-03 17:19:01
+501,3767,"If you are a man, do you have a mustache?",Choices,2014-02-03 17:20:09
+502,3787,"Have you visited a bookstore in the last 3 months?",Choices,2014-02-04 17:19:45
+504,3798,"What percentage of your take home pay do you save or invest each month?",Numerical,2014-02-05 11:09:59
+506,3809,"Are you religious?",Choices,2014-02-05 23:15:36
