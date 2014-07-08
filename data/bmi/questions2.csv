@@ -1,0 +1,60 @@
+qnum,qtext,userid,anstype,coeff,rsquare,pvalue,quality,rank,numresponse,avgans,time,submitref
+2,When you were a child: did you own a bike?,2,1,0.545599997,0.0046000001,0,0.0046000001,36,421,yes,\N,\N
+3,When you were a child: how many times a week did you eat at a fast food restaurant?,3,2,0.065700002,0.0004,0,0.0004,54,418,1.34,\N,\N
+1,When I was a child: I was bullied.,1,3,0.0264999997,0.0155999996,0,0.0155999996,23,417,Somewhat Agree,\N,\N
+4,When you were a child: were your parents obese?,6,1,-1.252300024,0.0217000004,0,0.0217000004,16,415,no,11/08/12 06:48:33 pm,24
+5,When you were a child: did you live in poverty?,4,1,1.5621999502,0.0244999994,0,0.0244999994,15,417,no,11/08/12 06:44:10 pm,23
+6,When you were a child: were you rewarded with food?,6,1,0.7875999808,0.0129000004,0,0.0129000004,24,405,no,11/08/12 06:49:44 pm,26
+8,When you were a child: how many times per week did you eat at a non-fast-food restaurant?,7,2,-0.279399991,0.0006,0,0.0006,51,388,1.13,11/08/12 07:02:34 pm,28
+7,When you were a child: did your parents restrict your food intake?,6,1,10.508000374,0.0309999995,0,0.0309999995,11,404,no,11/08/12 06:49:01 pm,25
+9,When you were a child: were you involved in any competitive sports?,7,1,17.658800125,0.0020000001,0,0.0020000001,44,387,yes,11/08/12 07:21:54 pm,38
+10,When you were a child: did you often eat late at night?,37,1,1.2437000275,0.0008,0,0.0008,50,383,no,11/08/12 08:26:08 pm,42
+11,When you were a child: did your parents have a good healthy relationship?,6,3,0.7092999816,0.0019,0.7364515066,0.0005007412,52,370,Strongly Agree,11/08/12 07:22:52 pm,39
+16,When you were a child: how many times a week did you eat candy?,265,2,-0.757300019,0.0005,0.5094488859,0.0002452755,57,130,2.83,11/09/12 12:59:13 pm,73
+15,When you were a child: apart from breakfast: lunch: and dinner: how many times per day did you eat something in between meals?,55,2,0.2660999894,0.0008,0.6718742251,0.0002625008,56,353,1.98,11/08/12 09:16:06 pm,46
+12,When you were a child: did you drink juice or soda more often than water?,7,3,0.8497999907,0.0275999997,0.6549264789,0.0095240427,28,366,Strongly Agree,11/08/12 07:11:12 pm,32
+13,When you were a child: did you prepare your own meals more often than your parents did for you?,55,1,1.9932999611,0.0031000001,0.6546444297,0.0010706036,47,371,no,11/08/12 09:14:41 pm,45
+14,Were you born prematurely?,54,1,-0.264600009,0.0015,0.8921163082,0.000161826,58,358,no,11/08/12 09:10:08 pm,43
+17,When you were a child did you engage in regular outdoor activity: like hiking or biking: with your family?,295,1,0.2915999889,0.0379000008,0.5066635013,0.018697435,20,131,no,11/09/12 03:02:36 pm,77
+18,When you were a child...How much sleep did you get on an average school weekday?,179,2,-0.423200011,0.0304000005,0,0.0304000005,12,154,8.06,11/09/12 04:36:28 am,64
+19,When you were a child... How many times per week did you bring your lunch to school?,278,2,0.0649999976,0.0544999987,0,0.0544999987,4,115,3.13,11/09/12 01:50:59 pm,75
+20,When you were a child...How many times a week were you left alone for longer than an hour?,245,2,0.559499979,0.0113000004,0,0.0113000004,26,114,3.75,11/09/12 11:25:54 am,69
+21,When you were a child... was your mother constantly on a diet?,253,3,3.1319999695,0.0017,0,0.0017,46,109,Strongly Disagree,11/09/12 12:02:52 pm,70
+22,Did your parents ask you what you were eating frequently?,36,2,-4.816299915,0.0192000009,0,0.0192000009,19,93,0.17,11/08/12 08:24:32 pm,40
+23,When you were a child... did you drink skim milk much more often than whole milk?,7,3,4.9471001625,0.0114000002,0,0.0114000002,25,109,Strongly Disagree,11/08/12 07:03:49 pm,29
+24,When you were a child: were you raised by a single mother?,11,1,-9.922699928,0.0077,0,0.0077,31,114,no,11/08/12 07:04:22 pm,30
+25,When you were a child... did your household serve  reduced-fat alternatives to traditional foods (e.g. skim milk instead of whole: egg beaters instead of whole eggs: etc.)?,7,1,2.8085000515,0.0375000015,0,0.0375000015,9,111,no,11/08/12 07:09:10 pm,31
+26,When you were a child... were you aware of weight/body image being a topic of conversation or concern to the adults in your life (i.e. a parent dieting often or telling you to diet)?,7,3,0.3233999908,0.0165999997,0,0.0165999997,22,118,Strongly Agree,11/08/12 07:14:39 pm,33
+27,When you were a child... how many times a week did you eat sweetened cereal?,7,2,-0.292299986,0.0041999999,0,0.0041999999,37,113,3.28,11/08/12 07:16:59 pm,34
+28,When you were a child... did you experience any event that caused significant emotional trauma?,7,1,-1.946099997,0.0093999999,0,0.0093999999,29,115,no,11/08/12 07:18:22 pm,35
+29,When you were a child... how often in a week would you eat home cooked meals?,6,2,0.3679000139,0.001,0,0.001,48,116,7.37,11/08/12 07:20:02 pm,36
+30,When you were a child...did you usually eat together with your family?,6,1,4.6729001999,0.0027000001,0,0.0027000001,42,117,yes,11/08/12 07:21:20 pm,37
+31,Did your parents ask you what you were eating frequently?,36,1,0.8877999783,0.0250000004,0,0.0250000004,14,119,no,11/08/12 08:24:49 pm,41
+32,What was your birth weight,54,2,-1.118899941,0.0093,0,0.0093,30,93,7.82,11/08/12 09:10:48 pm,44
+33,When you were a child...catch and other active/outdoor games were your favorite.,6,3,5.9354000092,0.0206000004,0,0.0206000004,17,119,Agree,11/08/12 09:26:54 pm,49
+34,When you were a child...did your family primarily prepare meals using fresh ingredients?,75,1,-2.489599943,0.0498000011,0,0.0498000011,5,128,yes,11/08/12 09:51:49 pm,51
+35,When you were a child: were you raised on a coast of the United States?,59,1,0.0834000036,0.0062000002,0,0.0062000002,34,120,no,11/08/12 09:22:16 pm,48
+36,When you were a child: you were taught how to cook.,6,1,-1.945899963,0.0048000002,0,0.0048000002,35,113,yes,11/08/12 09:30:10 pm,50
+37,When you were a child did your parents encourage you to clean your plate?,90,1,4.928800106,0.1342000067,0,0.1342000067,1,114,yes,11/08/12 10:39:40 pm,52
+38,When you were a child how often did your parents exercise a week?,89,2,0.231099993,0.0020000001,0,0.0020000001,45,114,1.77,11/08/12 10:41:22 pm,53
+39,When you were a child: was the food used as a punishment in any ways?,6,1,13.037699699,0.0001,0,0.0001,59,114,no,11/08/12 10:49:07 pm,54
+40,When you were a child: did your parents allow to eat whatever you wanted?,102,3,2.6078000069,0.0035000001,0,0.0035000001,39,116,Agree,11/08/12 11:08:14 pm,55
+41,When you were a child...were your grandparents overweight?,107,1,2.1482999325,0.0004,0,0.0004,55,113,no,11/08/12 11:15:17 pm,56
+42,When you were a child...How many hours per week did you play outdoors?,106,2,-0.0162,0.0031999999,0,0.0031999999,40,112,11.51,11/08/12 11:27:10 pm,57
+43,When you were a child...Did you have many friends?,106,1,0.6097999811,0.0441000015,0,0.0441000015,6,117,yes,11/08/12 11:29:26 pm,58
+44,When you were a child...did your parents divorce?,127,1,-0.188800007,0.0009,0,0.0009,49,108,no,11/08/12 11:56:48 pm,59
+45,When you were a child: did your parents prohibit you eating certain foods? (e.g.: sweets: sodas: etc),132,1,-0.226799995,0.0029,0,0.0029,41,112,no,11/09/12 12:04:47 am,60
+46,When you were a child...highly sugary foods (candy: soda pop: etc) were a special treat rather than part of your regular diet.,137,3,3.3905000687,0.0062000002,0,0.0062000002,33,106,Strongly Agree,11/09/12 12:14:35 am,61
+47,When you were a child... at what age was your first tooth filling?,164,2,0.4167000055,0.0408000015,0,0.0408000015,7,96,10.85,11/09/12 02:24:16 am,62
+48,When you were a child... were you sexually abused?,176,1,0.4038000107,0.0544999987,0,0.0544999987,3,113,no,11/09/12 04:18:06 am,63
+49,When you were a child... Was a fast food restaurant within walking distance or a short bike ride?,198,1,4.9292001724,0.0754000023,0,0.0754000023,2,116,no,11/09/12 08:11:13 am,65
+50,When you were a child...How times did you watch TV while eating dinner during the average week?,202,2,0.3894999921,0.0041,0,0.0041,38,108,2.70,11/09/12 08:32:52 am,66
+51,When you were a child: did you spend more time playing outdoors than indoors?,212,1,-0.280499995,0.0100999996,0,0.0100999996,27,111,yes,11/09/12 09:32:27 am,67
+52,When you were a child... dd your family grow their own food?,219,3,-5.625899792,0.0172000006,0,0.0172000006,21,115,Strongly Disagree,11/09/12 09:58:30 am,68
+53,When you were a child: did someone consistently pack a lunch for you to take to school?,251,1,5.8901000023,0.0395999998,0,0.0395999998,8,107,yes,11/09/12 12:05:14 pm,71
+54,When you were a child...was your maternal grandmother obese,264,1,-6.783599854,0.0204000007,0,0.0204000007,18,107,no,11/09/12 12:56:47 pm,72
+55,When you were a child...did you have any metabolic disorders,264,1,0.1037999988,0.0005,0,0.0005,53,125,no,11/09/12 01:05:53 pm,74
+56,When you were a child... How many times a week did you have a meal while watching television?,340,2,-0.097499996,0.0068000001,0,0.0068000001,32,119,3.55,11/09/12 04:21:38 pm,80
+57,When you were a child... How many times per week did you bring your lunch to school?,278,2,0.3145000041,0.0351999998,0,0.0351999998,10,109,3.01,11/09/12 01:51:19 pm,76
+58,When you were a child: were you facing identity issues that could have affected you psychologically?,327,1,3.6068000793,0.0022,0,0.0022,43,113,no,11/09/12 03:50:23 pm,78
+59,When you were a child...did your parents talk about nutrition?,328,1,2.7876000404,0.0295000002,0,0.0295000002,13,111,no,11/09/12 03:51:54 pm,79
